@@ -38,6 +38,6 @@
   
   
  ## TEST VERSION DOWNLOAD  
- <a href="https://github.com/teamxfire/TXF-Ultra-Sms-Bomber-/raw/main/TXF%20SMS%20BOMBING%20ULTRA.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/VXBOMBER/raw/main/VX%20SMS%20BOMBER_1.0Test%20Version.apk">DOWNLOAD NOW</a> 
  
 
