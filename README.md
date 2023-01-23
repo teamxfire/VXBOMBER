@@ -1,4 +1,4 @@
-##NOTE VX BOMBER TEST VERSION
+# NOTE VX BOMBER TEST VERSION
 # VX BOMBING
   VX SMS BOMBER IS An Sms Bombing App. Most Fastest Sms Bomber In BD
    
