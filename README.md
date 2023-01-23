@@ -1,7 +1,11 @@
+##NOTE VX BOMBER TEST VERSION
 # VX BOMBING
   VX SMS BOMBER IS An Sms Bombing App. Most Fastest Sms Bomber In BD
    
- ![Logo](Screenshot_20221221-183955.jpg) 
+ ![Logo](1674506765949.png) 
+ ![Logo](1674506774040.png)
+ ![Logo](1674506786206.png) 
+  
   
   
   
@@ -33,7 +37,7 @@
  For support <a href="https://t.me/TEAMXFIRE">(Telegram)</a>
   
   
- ## Download  
+ ## TEST VERSION DOWNLOAD  
  <a href="https://github.com/teamxfire/TXF-Ultra-Sms-Bomber-/raw/main/TXF%20SMS%20BOMBING%20ULTRA.apk">DOWNLOAD NOW</a> 
  
 
